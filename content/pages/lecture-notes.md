@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the lecture notes used in the course. The occasional
+  presence of blank slides in the lecture notes indicates that the professor filled
+  in those slides during lecture.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +34,7 @@ Files
 Data Networks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture1))
+({{% resource_link 0feb60d4-d98f-77a9-c089-91b4960139f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +46,7 @@ Data Networks
 The Data Link Layer: Framing and Error Detection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture2))
+({{% resource_link 8bb0a8c4-2116-75c1-8f5d-f269507b8dc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +58,7 @@ The Data Link Layer: Framing and Error Detection
 The Data Link Layer: ARQ Protocols
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures3_4))
+({{% resource_link 87b3195a-ca18-f2e2-9b0b-b819566f9558 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +70,7 @@ The Data Link Layer: ARQ Protocols
 Introduction to Queueing Theory
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures5_6))
+({{% resource_link 8e7e4eb2-4a92-a964-c618-5b607331ec13 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +82,7 @@ Introduction to Queueing Theory
 Burke's Theorem and Networks of Queues
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture7))
+({{% resource_link 42cb7759-de03-1ae2-0aae-04632773fef4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +94,7 @@ Burke's Theorem and Networks of Queues
 M/G/1 Queues
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures8_9))
+({{% resource_link 65d9ab51-9ec4-851a-f812-f4b89ffaeedc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +106,7 @@ M/G/1 Queues
 Reservations Systems M/G/1 Queues with Priority
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures10_11))
+({{% resource_link 7f088bd3-a284-0015-5989-d6bc5e078adc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +118,7 @@ Reservations Systems M/G/1 Queues with Priority
 Packet Multiple Access: The Aloha Protocol
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures13_14))
+({{% resource_link 04ca100a-8b24-7ecf-18d3-28b752f1b929 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +130,7 @@ Packet Multiple Access: The Aloha Protocol
 Local Area Networks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures15_16))
+({{% resource_link 623c1e88-2217-01c1-3481-1e228f8b7f11 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +142,7 @@ Local Area Networks
 Fast Packet Switching
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures17_18))
+({{% resource_link a9217920-9dd4-e7d5-c2b9-81ca0cf6a8f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +154,7 @@ Fast Packet Switching
 Broadcast Routing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture19))
+({{% resource_link e4e5a5f7-2a28-76ef-ee7a-9a4c4a0a715b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +166,7 @@ Broadcast Routing
 Routing in Data Networks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture20))
+({{% resource_link 00782df3-c2af-46bb-1609-8e16afd38236 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +178,7 @@ Routing in Data Networks
 Optimal Routing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture21))
+({{% resource_link 13bf4cc9-1de8-5b8c-b29c-7bf34fb5b441 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +190,7 @@ Optimal Routing
 Flow and Congestion Control
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures22_23))
+({{% resource_link 83a643ae-caa2-c5e0-ebd3-29d93708a5da "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +202,7 @@ Flow and Congestion Control
 Higher Layer Protocols: TCP/IP and ATM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lectures24_25))
+({{% resource_link 8855554f-e6b8-d07a-7ee8-c5fb7089d4fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

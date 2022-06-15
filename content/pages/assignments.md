@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ Files
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps1_))
+({{% resource_link cee565f7-1291-570a-1955-e72d2bdef531 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +41,7 @@ Files
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps2))
+({{% resource_link 8836e468-158c-7874-0444-e0069e86412e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Files
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps3_))
+({{% resource_link e47fcd6c-150d-5372-c401-7921e7cb3750 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Files
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps4_))
+({{% resource_link 94b599b5-888f-4d08-ab9d-5bd6cafc7b1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Files
 5
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps5))
+({{% resource_link 152f7d12-cde2-1b3b-85fb-f04bd506745a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +77,7 @@ Files
 6
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ps6))
+({{% resource_link 98366e44-0deb-17a5-6884-f46e732bac05 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +86,7 @@ Files
 7
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/hw7))
+({{% resource_link 3c7a13bf-c32f-eee0-7424-befd5d5b1c62 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
