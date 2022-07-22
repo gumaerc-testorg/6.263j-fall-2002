@@ -5,6 +5,7 @@ file: /courses/6-263j-data-communication-networks-fall-2002/42cb7759de031ae20aae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture7.pdf
 uid: 42cb7759-de03-1ae2-0aae-04632773fef4
 ---
 Burke?s Theorem and Networks of Queues
-

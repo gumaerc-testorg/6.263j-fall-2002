@@ -5,6 +5,7 @@ file: /courses/6-263j-data-communication-networks-fall-2002/a92179209dd4e7d5c2b9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lectures17_18.pdf
 uid: a9217920-9dd4-e7d5-c2b9-81ca0cf6a8f3
 ---
 Fast packet switching
-

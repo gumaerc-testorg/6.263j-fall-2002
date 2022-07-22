@@ -5,6 +5,7 @@ file: /courses/6-263j-data-communication-networks-fall-2002/04ca100a8b247ecf18d3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lectures13_14.pdf
 uid: 04ca100a-8b24-7ecf-18d3-28b752f1b929
 ---
 Packet Multiple Access: The Aloha protocol
-

@@ -5,6 +5,7 @@ file: /courses/6-263j-data-communication-networks-fall-2002/8bb0a8c4211675c18f5d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture2.pdf
 uid: 8bb0a8c4-2116-75c1-8f5d-f269507b8dc0
 ---
 The Data Link Layer: Framing and Error Detection
-

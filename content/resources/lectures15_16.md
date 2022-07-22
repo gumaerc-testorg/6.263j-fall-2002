@@ -5,6 +5,7 @@ file: /courses/6-263j-data-communication-networks-fall-2002/623c1e88221701c13481
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lectures15_16.pdf
 uid: 623c1e88-2217-01c1-3481-1e228f8b7f11
 ---
 Local Area Networks
-

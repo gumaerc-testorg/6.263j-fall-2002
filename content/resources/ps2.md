@@ -5,6 +5,7 @@ file: /courses/6-263j-data-communication-networks-fall-2002/8836e468158c78740444
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: PS2.pdf
 uid: 8836e468-158c-7874-0444-e0069e86412e
 ---
 Problem Set No. 2
-
