@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set No. 3
 file: /courses/6-263j-data-communication-networks-fall-2002/e47fcd6c150d5372c4017921e7cb3750_PS3_.pdf
+file_size: 9752
 file_type: application/pdf
 learning_resource_types:
 - Assignments

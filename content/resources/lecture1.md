@@ -2,6 +2,7 @@
 content_type: resource
 description: Introduction
 file: /courses/6-263j-data-communication-networks-fall-2002/0feb60d4d98f77a9c08991b4960139f3_Lecture1.pdf
+file_size: 318704
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
