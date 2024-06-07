@@ -2,6 +2,7 @@
 content_type: resource
 description: Routing in Data Networks
 file: /courses/6-263j-data-communication-networks-fall-2002/00782df3c2af46bb16098e16afd38236_Lecture20.pdf
+file_size: 155120
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

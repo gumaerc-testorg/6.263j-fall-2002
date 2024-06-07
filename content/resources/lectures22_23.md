@@ -2,6 +2,7 @@
 content_type: resource
 description: Flow and congestion control
 file: /courses/6-263j-data-communication-networks-fall-2002/83a643aecaa2c5e0ebd329d93708a5da_Lectures22_23.pdf
+file_size: 285091
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
