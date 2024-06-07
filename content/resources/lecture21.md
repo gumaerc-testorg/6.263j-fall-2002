@@ -2,6 +2,7 @@
 content_type: resource
 description: Optimal Routing
 file: /courses/6-263j-data-communication-networks-fall-2002/13bf4cc91de85b8cb29c7bf34fb5b441_Lecture21.pdf
+file_size: 169693
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
