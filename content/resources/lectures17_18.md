@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Fast packet switching
-file: /courses/6-263j-data-communication-networks-fall-2002/a92179209dd4e7d5c2b981ca0cf6a8f3_Lectures17_18.pdf
+file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/a92179209dd4e7d5c2b981ca0cf6a8f3_Lectures17_18.pdf
 file_size: 233592
 file_type: application/pdf
 learning_resource_types:

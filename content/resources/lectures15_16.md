@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Local Area Networks
-file: /courses/6-263j-data-communication-networks-fall-2002/623c1e88221701c134811e228f8b7f11_Lectures15_16.pdf
+file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/623c1e88221701c134811e228f8b7f11_Lectures15_16.pdf
 file_size: 268768
 file_type: application/pdf
 learning_resource_types:
