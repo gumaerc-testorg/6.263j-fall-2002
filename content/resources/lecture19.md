@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Broadcast routing
-file: /courses/6-263j-data-communication-networks-fall-2002/e4e5a5f72a2876efee7a9a4c4a0a715b_Lecture19.pdf
+file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/e4e5a5f72a2876efee7a9a4c4a0a715b_Lecture19.pdf
 file_size: 130094
 file_type: application/pdf
 learning_resource_types:
