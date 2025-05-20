@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Higher Layer Protocols : TCP/IP and ATM'
-file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/8855554fe6b8d07a7ee8c5fb7089d4fe_Lectures24_25.pdf
+file: /courses/6-263j-data-communication-networks-fall-2002/8855554fe6b8d07a7ee8c5fb7089d4fe_Lectures24_25.pdf
 file_size: 533969
 file_type: application/pdf
 learning_resource_types:
