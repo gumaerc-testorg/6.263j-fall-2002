@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Reservations Systems: M/G/1 queues with Priority'
-file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/7f088bd3a28400155989d6bc5e078adc_Lectures10_11.pdf
+file: /courses/6-263j-data-communication-networks-fall-2002/7f088bd3a28400155989d6bc5e078adc_Lectures10_11.pdf
 file_size: 227293
 file_type: application/pdf
 learning_resource_types:
