@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'The Data Link Layer: Framing and Error Detection'
-file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/8bb0a8c4211675c18f5df269507b8dc0_Lecture2.pdf
+file: /courses/6-263j-data-communication-networks-fall-2002/8bb0a8c4211675c18f5df269507b8dc0_Lecture2.pdf
 file_size: 204178
 file_type: application/pdf
 learning_resource_types:

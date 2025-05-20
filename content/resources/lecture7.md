@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Burke?s Theorem and Networks of Queues
-file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/42cb7759de031ae20aae04632773fef4_Lecture7.pdf
+file: /courses/6-263j-data-communication-networks-fall-2002/42cb7759de031ae20aae04632773fef4_Lecture7.pdf
 file_size: 231390
 file_type: application/pdf
 learning_resource_types:

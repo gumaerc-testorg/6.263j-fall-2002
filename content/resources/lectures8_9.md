@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: M/G/1 Queues
-file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/65d9ab519ec4851af812f4b89ffaeedc_Lectures8_9.pdf
+file: /courses/6-263j-data-communication-networks-fall-2002/65d9ab519ec4851af812f4b89ffaeedc_Lectures8_9.pdf
 file_size: 220212
 file_type: application/pdf
 learning_resource_types:

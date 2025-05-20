@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set No. 1
-file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/cee565f71291570a1955e72d2bdef531_PS1_.pdf
+file: /courses/6-263j-data-communication-networks-fall-2002/cee565f71291570a1955e72d2bdef531_PS1_.pdf
 file_size: 11349
 file_type: application/pdf
 learning_resource_types:
