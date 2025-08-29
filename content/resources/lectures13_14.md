@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Packet Multiple Access: The Aloha protocol'
-file: /courses/6-263j-data-communication-networks-fall-2002/04ca100a8b247ecf18d328b752f1b929_Lectures13_14.pdf
+file: /ol-ocw-studio-app/courses/6-263j-data-communication-networks-fall-2002/04ca100a8b247ecf18d328b752f1b929_Lectures13_14.pdf
 file_size: 173214
 file_type: application/pdf
 learning_resource_types:
